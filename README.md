@@ -17,10 +17,10 @@ checks always apply.
 
 ## Documentation and support
 
-- **User guide:** <https://thomasbergernz.github.io/junban-desk/>
-- **Installation:** <https://thomasbergernz.github.io/junban-desk/install>
-- **Support:** <https://thomasbergernz.github.io/junban-desk/support>
-- **Privacy policy:** <https://thomasbergernz.github.io/junban-desk/privacy>
+- **User guide:** <https://docs.junbandesk.com/>
+- **Installation:** <https://docs.junbandesk.com/install>
+- **Support:** <https://docs.junbandesk.com/support>
+- **Privacy policy:** <https://docs.junbandesk.com/privacy>
 - **Security policy:** [SECURITY.md](SECURITY.md)
 
 The easiest way to use Junban Desk is the Atlassian Marketplace listing (paid, per user).
