@@ -28,12 +28,12 @@ are prioritised ahead of everything else.
 
 Junban Desk is open source. If you are comfortable with GitHub you can also file
 bugs and feature requests directly at
-[github.com/thomasbergernz/junban-desk/issues](https://github.com/thomasbergernz/junban-desk/issues) —
+[github.com/Confluenceservice/junban-desk/issues](https://github.com/Confluenceservice/junban-desk/issues) —
 please still use the support portal for anything account- or site-specific.
 
 ## Security vulnerabilities
 
 Please do **not** report security vulnerabilities in public issues or regular
 support tickets. Follow the
-[security policy](https://github.com/thomasbergernz/junban-desk/blob/main/SECURITY.md)
+[security policy](https://github.com/Confluenceservice/junban-desk/blob/main/SECURITY.md)
 and report privately via GitHub Security Advisories.

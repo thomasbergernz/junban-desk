@@ -16,7 +16,7 @@ security controls; this page covers what we do on top of that. See also our
 
 Please do **not** open public issues for security vulnerabilities. Report them
 privately via
-[GitHub Security Advisories](https://github.com/thomasbergernz/junban-desk/security/advisories/new),
+[GitHub Security Advisories](https://github.com/Confluenceservice/junban-desk/security/advisories/new),
 or through our [support portal](https://confluenceservice-dev.atlassian.net/servicedesk/customer/portals).
 
 Include what you found, how to reproduce it, the affected version, and the

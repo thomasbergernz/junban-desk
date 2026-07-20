@@ -40,4 +40,4 @@ Atlassian** — see the [privacy policy](privacy.md).
 
 Junban Desk is open source (Apache 2.0). If you prefer to run your own copy on
 your own Forge app id, follow the developer instructions in the
-[README](https://github.com/thomasbergernz/junban-desk#getting-started).
+[README](https://github.com/Confluenceservice/junban-desk#getting-started).

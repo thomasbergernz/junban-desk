@@ -1,3 +1,10 @@
 title: Junban Desk — User Guide
 description: A focused agent workspace for Jira Service Management
 theme: jekyll-theme-primer
+
+# Canonical location after the repo moved to the Confluenceservice org. Without
+# these, Jekyll's absolute_url and the theme's edit link derived the old
+# thomasbergernz.github.io URLs, which now 404.
+url: https://confluenceservice.github.io
+baseurl: /junban-desk
+repository: Confluenceservice/junban-desk

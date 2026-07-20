@@ -10,6 +10,11 @@ published on the Atlassian Marketplace by **Collaboration Services** ("we",
 [Atlassian's privacy policy](https://www.atlassian.com/legal/privacy-policy).
 See also our [security policy](security.md).
 
+> **Using the Cloud edition ([app.junbandesk.com](https://app.junbandesk.com))?**
+> It is hosted outside Atlassian and its data handling differs from what is
+> described here. See its own policy at
+> **[app.junbandesk.com/privacy](https://app.junbandesk.com/privacy)**.
+
 ## Summary
 
 - Junban Desk **stores only per-project configuration** — kept in the app's
@@ -74,4 +79,4 @@ or via our [support portal](https://confluenceservice-dev.atlassian.net/serviced
 
 We will update this page if the app's data handling ever changes (for
 example, if a future version adds storage). Material changes will be noted in
-the app's [changelog](https://github.com/thomasbergernz/junban-desk/blob/main/CHANGELOG.md).
+the app's [changelog](https://github.com/Confluenceservice/junban-desk/blob/main/CHANGELOG.md).
